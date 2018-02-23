@@ -1,6 +1,5 @@
 # my-website
 
-this is sucha cool website
 
-
+hello world!!
 Update resme file 
